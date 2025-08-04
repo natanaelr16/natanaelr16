@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="natanael.png" alt="Banner" width="100%">
+  <img src="natanael_banner.png" alt="Banner" width="100%">
 </div>
 
 # 👋 ¡Hola! Soy Natanael
