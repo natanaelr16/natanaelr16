@@ -38,12 +38,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanaelr16&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelr16&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=natanaelr16&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelr16&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelr16&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelr16&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages">
 </div>
 
 ---
