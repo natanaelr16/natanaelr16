@@ -69,9 +69,8 @@
 ## 🎯 Lo que estoy haciendo actualmente
 
 - 🔭 **Trabajando en**: [Descripción de tu proyecto actual]
-- 🌱 **Aprendiendo**: [Nuevas tecnologías que estás estudiando]
-- 👯 **Colaborando en**: [Proyectos de código abierto o colaboraciones]
-- 💡 **Próximo objetivo**: [Lo que planeas aprender o desarrollar]
+- 🌱 **Aprendiendo**: Angular
+- 💡 **Próximo objetivo**: Crear un proyecto con Angular
 
 
 
